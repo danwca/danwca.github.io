@@ -18,4 +18,4 @@ Node.js
 2. webpack, 
 3. react,
 4. Next.js
-                    
+5. [kendo-ui-core](https://github.com/telerik/kendo-ui-core?tab=readme-ov-file)                    
