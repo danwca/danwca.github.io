@@ -4,7 +4,7 @@
 2. setup a repository as GitHub pages, public, Github pages section;
 3. setup a Node.js website, [nextjs-website](https://github.com/topics/nextjs-website); [sketchomania / portfolio](https://github.com/sketchomania); [medhatnasra/nextjs-responsive-portfolio](https://github.com/medhatnasra/nextjs-responsive-portfolio), [demo](https://muhammadfiaz.com/); [muhammad-fiaz / devfolio](https://github.com/muhammad-fiaz/devfolio), detail explanition;
 4. setup local repositories. download Github, setup local repositories;
-5. [MDwiki](https://github.com/danwca/mdwiki), 
+5. [MDwiki](https://danwca.github.io/mdwiki/), 
    
 
 
