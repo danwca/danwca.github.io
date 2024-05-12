@@ -18,7 +18,7 @@
 
 
 #### phpto
-1. [php composer](https://getcomposer.org/) for php, similar to npm in node.js, dotnet for ms .Net,  
+1. [php composer](https://getcomposer.org/) for php, similar to npm in node.js, nuget in MS .Net, ect.  
 2. [CodeIgniter4](https://codeigniter.com/); 
 
 
