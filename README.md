@@ -17,9 +17,12 @@
 1. [Libhunt](https://www.libhunt.com/)
 
 
-#### phpto
+#### php
 1. [php composer](https://getcomposer.org/) for php, similar to npm in node.js, nuget in MS .Net, ect.  
 2. [CodeIgniter4](https://codeigniter.com/); 
+
+#### software
+1. Discord, a message software with powerful code interface
 
 
 
