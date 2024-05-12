@@ -6,3 +6,11 @@
 4. setup local repositories. download Github, setup local repositories; 
 
 
+#### discord
+1. [discord](https://discord.com),  [Discord Application](https://discord.com/developers/applications)
+2. [CustomDiscordRPC](https://github.com/sotasan/customdiscordrpc)
+
+#### ERP
+
+#### Node.js
+
