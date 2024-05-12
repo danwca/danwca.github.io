@@ -19,4 +19,5 @@ Node.js
 3. react,
 4. Next.js
 5. [kendo-ui-core](https://github.com/telerik/kendo-ui-core?tab=readme-ov-file)
-6. [Swagger Editor](https://swagger.io/tools/swagger-editor/)       
+6. [Swagger Editor](https://swagger.io/tools/swagger-editor/)
+7. [LibHunt](https://www.libhunt.com/), tracks mentions of software libraries on relevant social networks. Based on that data, you can find the most popular open-source packages, as well as similar and alternative projects.
