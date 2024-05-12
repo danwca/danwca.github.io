@@ -15,6 +15,8 @@
 
 #### Node.js
 1. [Libhunt](https://www.libhunt.com/)
+2. [Editor.js](https://editorjs.io/)
+3. [DataTables](https://datatables.net/)
 
 
 #### php
@@ -24,5 +26,6 @@
 #### software
 1. Discord, a message software with powerful code interface
 
-
+#### others
+1 [generator creating html imagemaps](https://www.image-map.net/)
 
