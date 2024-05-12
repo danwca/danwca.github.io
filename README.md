@@ -7,10 +7,11 @@
 
 
 #### discord
-1. [discord](https://discord.com),  [Discord Application](https://discord.com/developers/applications)
+1. [discord](https://discord.com),  [Discord Application](https://discord.com/developers/applications), [Discord Developer Platform](https://discord.com/developers/docs/intro)
 2. [CustomDiscordRPC](https://github.com/sotasan/customdiscordrpc)
 
 #### ERP
+1. [What is ERP?](https://www.oracle.com/ca-en/erp/what-is-erp/)
 
 #### Node.js
-
+1. [Libhunt](https://www.libhunt.com/)
