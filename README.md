@@ -30,7 +30,7 @@
 
 #### others
 1. [generator creating html imagemaps](https://www.image-map.net/)
-2. 如何理解量子， [These Blades Move Much Faster Than It Looks](https://www.youtube.com/shorts/KbcORCfE3r8), 如何测量？
+2. 如何理解量子， [These Blades Move Much Faster Than It Looks](https://www.youtube.com/shorts/JL1_0LouYr4), 如何测量？
 
 
 
