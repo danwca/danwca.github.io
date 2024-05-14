@@ -31,6 +31,7 @@
 #### others
 1. [generator creating html imagemaps](https://www.image-map.net/)
 2. 如何理解量子， [These Blades Move Much Faster Than It Looks](https://www.youtube.com/shorts/JL1_0LouYr4), 如何测量？
+3. 鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里，去以六月息者也； [本以为天鹅降落都很优雅，没想到有的时候...](https://www.youtube.com/shorts/SXIJToE5igs)
 
 
 
