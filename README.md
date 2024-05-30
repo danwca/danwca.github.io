@@ -36,7 +36,7 @@
 5. 思维逻辑中的问题： `我非子，固不知子矣，子固非鱼也，子之不知鱼之乐`， 丧失了逻辑共识； `安全第一，生产第一`，错误认知从属性， 群体共识（领导层）； `鸡生蛋，蛋生鸡`， 错误的认知， 生物先于意识， `鸡`和`蛋`属于意识的认知， 如何讨论意识之前物质世界？； `四维空间`， 定义的错误, `一维直线`， `二维平面`， `三维空间`， `四维时空`， 所有维均为`坐标系`；定义的不准确，是由于认知的模糊； 先有`意识`，后有`物质`， 在意识成长过程中， 正确， 此处的物质世界是指在意识领域里形成的物质世界， 意识里的物质世界永远属于意识， 永远是物质世界的局部，且有偏差；
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkKMH1BkG00?si=Zi2UfXYXfK_UX9t6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br />
 <video controls width="250">
   <source src="https://youtu.be/hkKMH1BkG00" type="video/webm" />
 
