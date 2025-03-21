@@ -42,7 +42,7 @@
 1. [Rails](https://guides.rubyonrails.org/getting_started.html), Rails is a web framework built for the Ruby programming language；
 2. ruby,  `gem install bundler jekyll`, `bundle install`, `bundle exec jekyll serve`
 3. node.js, `npm instal`, `npm run deploy`
-4. jekyll
+4. [jekyll](https://jekyllrb.com/), Jekyll is a static site generator. Jekyll requires the following: Ruby version 2.7.0 or higher, RubyGems, GCC and Make; 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkKMH1BkG00?si=Zi2UfXYXfK_UX9t6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
