@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        h1 {
+            color: red;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 5px;
+            border-radius: 5px;
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>404 - Page Not Found</h1>
+    <p>The requested page could not be found.</p>
+    <p><strong>Current URL:</strong> <code id="current-url"></code></p>
+    <p><strong>Suggested Base URL:</strong> <code id="base-url"></code></p>
+    <p><a id="home-link" href="#">Go to Home</a></p>
+
+    <script>
+        function getBaseURL() {
+            const { origin, pathname } = window.location;
+            const pathParts = pathname.split('/').filter(Boolean); // Remove empty parts
+
+            // If running on a custom domain, return the origin (e.g., https://mycustomdomain.com)
+            if (!origin.includes("github.io")) {
+                return origin + '/';
+            }
+
+            // If running on GitHub Pages with a repository, return `https://username.github.io/repository/`
+            if (pathParts.length > 0) {
+                return `${origin}/${pathParts[0]}/`;
+            }
+
+            // If running on the GitHub user/organization page, return `https://username.github.io`
+            return origin;
+        }
+
+        // Display results
+        const baseURL = getBaseURL();
+        document.getElementById("current-url").textContent = window.location.href;
+        document.getElementById("base-url").textContent = baseURL;
+        document.getElementById("home-link").href = baseURL;
+    </script>
+</body>
+</html>
