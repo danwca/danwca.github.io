@@ -27,7 +27,6 @@
 3. 检查本地设置，`git remote -v`, 结果显示：`origin  https://<YOUR_GITHUB_USERNAME>:<YOUR_PAT>@github.com/danwca/portfolio.git (fetch)` 和 `origin  https://<YOUR_GITHUB_USERNAME>:<YOUR_PAT>@github.com/danwca/portfolio.git (push)`; 
 
 
-
 #### 域名关联设置
 1. 主要逻辑， 在`Github`侧设置与`repository`关联的域名， 在域名服务器侧设置域名的`CNAME=danwca.github.io`， 这样域名被解析到`danwca.gitub.io`， `Github`根据域名索引到所访问域名相应的`repository`;   
 2. 一部分设置包括在`Github`的`Repository`的设置中， 另一部分设置需要在域名服务器上完成； 
