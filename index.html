@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>danwca.github.io</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 5px;
+            border-radius: 5px;
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1> danwca.github.io  GitHub Pages Base URL Test</h1>
+    <p><strong>Current URL:</strong> <code id="current-url"></code></p>
+    <p><strong>Detected Base URL:</strong> <code id="base-url"></code></p>
+
+    <script>
+        function getBaseURL() {
+            const { origin, pathname } = window.location;
+            const pathParts = pathname.split('/').filter(Boolean); // Remove empty parts
+
+            // If running on a custom domain, return the origin (e.g., https://mycustomdomain.com)
+            if (!origin.includes("github.io")) {
+                return origin + '/';
+            }
+
+            // If running on GitHub Pages with a repository, return `https://username.github.io/repository/`
+            if (pathParts.length > 0) {
+                return `${origin}/${pathParts[0]}/`;
+            }
+
+            // If running on the GitHub user/organization page, return `https://username.github.io`
+            return origin;
+        }
+
+        // Display results
+        document.getElementById("current-url").textContent = window.location.href;
+        //document.getElementById("base-url").textContent = getBaseURL();
+        document.getElementById("base-url").textContent = "danwca.github.io for sure, because the file is located in this folder!";
+   </script>
+</body>
+</html>
